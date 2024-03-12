@@ -25,6 +25,9 @@ jobs:
 
       - name: build
         run: |
+          pwd
+          ls
+          ls src
           npm install --prefix src
           npm ci --prefix src
           npm i @types/node -D --prefix src
