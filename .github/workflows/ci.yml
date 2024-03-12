@@ -29,6 +29,7 @@ jobs:
           npm i
           npm i @types/node -D
           npm run build
+          cd ..
           rsync -avh --delete ./src/dist/ ./docs/
         continue-on-error: true
 
