@@ -25,14 +25,10 @@ jobs:
 
       - name: build
         run: |
-          ls
-          cd src
-          ls
           npm install
-          npm ci
-          npm i @types/node -D
-          npm run build
-          cd ..
+          npm ci --prefix src
+          npm i @types/node -D --prefix src
+          npm run build --prefix src
           rsync -avh --delete ./src/dist/ ./docs/
         continue-on-error: true
 
