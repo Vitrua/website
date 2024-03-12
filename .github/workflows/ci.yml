@@ -26,7 +26,9 @@ jobs:
       - name: build
         run: |
           cd src
+          npm install
           npm ci
+          npm i @types/node -D
           npm run build
           cd ..
           rsync -avh --delete ./src/dist/ ./docs/
