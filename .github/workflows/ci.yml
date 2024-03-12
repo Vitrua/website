@@ -21,13 +21,12 @@ jobs:
       - uses: actions/setup-node@v4
         name: setup node
         with:
-          node-version: 18
+          node-version: 14
 
       - name: build
         run: |
           cd src
-          npm i
-          npm i @types/node -D
+          npm ci
           npm run build
           cd ..
           rsync -avh --delete ./src/dist/ ./docs/
