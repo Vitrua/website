@@ -25,22 +25,21 @@ const itemVariants = {
 };
 
 const Links = () => {
-  const items = ["Home", "Tools", "Guides", "Contact", "About Us"];
   const baseUrl = "https://vitrua.top";
-  
   return (
     <motion.div className="links" variants={variants}>
-      {items.map((item) => (
-        <motion.a
-          href={`${baseUrl}/#${item}`}
-          key={item}
-          variants={itemVariants}
-          whileHover={{ scale: 1.1 }}
-          whileTap={{ scale: 0.95 }}
-        >
-          {item}
-        </motion.a>
-      ))}
+      <motion.a href={`${baseUrl}/#Home`} variants={itemVariants} whileHover={{ scale: 1.1 }} whileTap={{ scale: 0.95 }} >
+        {"Home"}
+      </motion.a>
+      <motion.a href={`${baseUrl}/chobe/`} variants={itemVariants} whileHover={{ scale: 1.1 }} whileTap={{ scale: 0.95 }} >
+        {"Chobe"}
+      </motion.a>
+      <motion.a href={`${baseUrl}/autoversion/`} variants={itemVariants} whileHover={{ scale: 1.1 }} whileTap={{ scale: 0.95 }} >
+        {"Autoversion"}
+      </motion.a>
+      <motion.a href={`${baseUrl}/helmunused/`} variants={itemVariants} whileHover={{ scale: 1.1 }} whileTap={{ scale: 0.95 }} >
+        {"Helm unused"}
+      </motion.a>
     </motion.div>
   );
 };

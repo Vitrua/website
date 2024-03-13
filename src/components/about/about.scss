@@ -1,5 +1,18 @@
 @import "../../app.scss";
 
+.about_tool::-webkit-scrollbar {
+  width: 10px;
+}
+
+.about_tool::-webkit-scrollbar-track {
+  background: #0c0c1d;
+}
+
+.about_tool::-webkit-scrollbar-thumb {
+  background-color: #061a30;
+  border-radius: 20px;
+}
+
 .contact {
   height: 100%;
   max-width: 1366px;
