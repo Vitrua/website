@@ -13,7 +13,7 @@
   border-radius: 20px;
 }
 
-.contact {
+.about {
   height: 100%;
   max-width: 1366px;
   margin: auto;
@@ -25,6 +25,7 @@
     width: 100%;
     padding: 10px;
     flex-direction: column;
+    overflow-y: auto;
   }
 
   .textContainer {
