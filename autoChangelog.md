@@ -1,4 +1,14 @@
-# 0.2.0 (2024-03-17)
+## [0.2.1](https://github.com/Vitrua/website/compare/v0.2.0...v0.2.1) (2024-03-17)
+
+
+### Bug Fixes
+
+* about scroll ([d2597fb](https://github.com/Vitrua/website/commit/d2597fbb5edfa00949bfe9163f35f1864dd80c15))
+* connect mail service ([7d59840](https://github.com/Vitrua/website/commit/7d598409e1ef61fce0dd6369369cb9bbf81f722a))
+
+
+
+# [0.2.0](https://github.com/Vitrua/website/compare/296ef15afe8e7a3a712abd10e717ace39691eced...v0.2.0) (2024-03-17)
 
 
 ### Bug Fixes
