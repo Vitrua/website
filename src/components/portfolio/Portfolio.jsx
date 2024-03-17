@@ -8,12 +8,14 @@ const items = [
     title: "Git Magic",
     img: "https://i.imgur.com/PV4MYNn.jpg",
     desc: "Embark on a magical journey into the realm of version control with our introductory Git lesson, where wizards and apprentices alike will unravel the secrets of collaborative coding.",
+    url: "https://vitrua.top/documents/Git%20Magic/01_Basic%20workflow/"
   },
   {
     id: 2,
-    title: "Kubernetes services",
+    title: "Kubernetes dungeon",
     img: "https://i.imgur.com/7dfLRHR.jpg",
-    desc: "Embark on a heroic quest into the Kubernetes Dungeon of Services! Conquer beginner challenges with basic commands, mastering the art of deploying, scaling, and discovering enchanting services.",
+    desc: "Embark on a heroic quest into the Kubernetes Dungeon! Conquer beginner challenges with basic commands, mastering the art of deploying, scaling, and discovering enchanting services.",
+    url: "https://vitrua.top/documents/Kubernetes%20Dungeon"
   }
 ];
 
@@ -36,7 +38,7 @@ const Single = ({ item }) => {
           <motion.div className="textContainer" style={{y}}>
             <h2>{item.title}</h2>
             <p>{item.desc}</p>
-            <button>Let's go</button>
+            <a href={item.url} target="_blank" rel="noopener noreferrer"><button>Let's go</button></a>
           </motion.div>
         </div>
       </div>
