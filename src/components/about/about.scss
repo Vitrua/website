@@ -13,18 +13,21 @@
   border-radius: 20px;
 }
 
-.contact {
+.about {
   height: 100%;
   max-width: 1366px;
   margin: auto;
   display: flex;
   align-items: center;
   gap: 50px;
+  overflow-y: auto; /* Enable vertical scrolling */
+  max-height: 100vh; /* Set maximum height to full viewport height */
 
   @include mobile {
     width: 100%;
     padding: 10px;
     flex-direction: column;
+    overflow-y: auto;
   }
 
   .textContainer {
