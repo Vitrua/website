@@ -1,3 +1,13 @@
+## [0.2.2](https://github.com/Vitrua/website/compare/v0.2.1...v0.2.2) (2024-03-18)
+
+
+### Bug Fixes
+
+* add guides links ([13ad193](https://github.com/Vitrua/website/commit/13ad193b5706527b9c0f7a82738e543985f37ed8))
+* emailjs sendform ([727170a](https://github.com/Vitrua/website/commit/727170a00c77003041af5b1372ed6f4da1374fe7))
+
+
+
 ## [0.2.1](https://github.com/Vitrua/website/compare/v0.2.0...v0.2.1) (2024-03-17)
 
 
