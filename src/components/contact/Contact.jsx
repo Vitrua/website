@@ -31,14 +31,10 @@ const Contact = () => {
 
     emailjs
       .sendForm(
-      //  "service_94y20xo",
-      //  "template_v10u2oh",
-      //  formRef.current,
-      //  "pX_2hasGmGcuvjXIW"
-        process.env.SERVICE_ID,
-        process.env.TEMPLATE_ID,
+        "service_p1ix21l",
+        "template_2ki3qip",
         formRef.current,
-        process.env.EMAILJS_API_KEY
+        "O3eIZmzXRgwUjLAt_"
       )
       .then(
         (result) => {
