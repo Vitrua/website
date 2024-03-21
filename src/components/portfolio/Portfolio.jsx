@@ -8,14 +8,14 @@ const items = [
     title: "Git Magic",
     img: "https://i.imgur.com/PV4MYNn.jpg",
     desc: "Embark on a magical journey into the realm of version control with our introductory Git lesson, where wizards and apprentices alike will unravel the secrets of collaborative coding.",
-    url: "https://vitrua.top/documents/Git%20Magic/01_Basic%20workflow/"
+    url: "https://docs.vitrua.top/Git%20Magic/01_Basic%20workflow/"
   },
   {
     id: 2,
     title: "Kubernetes dungeon",
     img: "https://i.imgur.com/7dfLRHR.jpg",
     desc: "Embark on a heroic quest into the Kubernetes Dungeon! Conquer beginner challenges with basic commands, mastering the art of deploying, scaling, and discovering enchanting services.",
-    url: "https://vitrua.top/documents/Kubernetes%20Dungeon"
+    url: "https://docs.vitrua.top/Kubernetes%20Dungeon/01_Services"
   }
 ];
 

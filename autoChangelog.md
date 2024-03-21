@@ -1,3 +1,12 @@
+## [0.2.3](https://github.com/Vitrua/website/compare/v0.2.2...v0.2.3) (2024-03-21)
+
+
+### Bug Fixes
+
+* guides 2 links ([321804c](https://github.com/Vitrua/website/commit/321804cca33f4172e7d150790abdda6a3378eb09))
+
+
+
 ## [0.2.2](https://github.com/Vitrua/website/compare/v0.2.1...v0.2.2) (2024-03-18)
 
 
