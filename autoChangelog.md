@@ -1,3 +1,12 @@
+## [0.2.4](https://github.com/Vitrua/website/compare/v0.2.3...v0.2.4) (2024-03-22)
+
+
+### Bug Fixes
+
+* button working and tools images ([a102edd](https://github.com/Vitrua/website/commit/a102edd1129ee06bb4b30cd5db34f911d3d27483))
+
+
+
 ## [0.2.3](https://github.com/Vitrua/website/compare/v0.2.2...v0.2.3) (2024-03-21)
 
 
