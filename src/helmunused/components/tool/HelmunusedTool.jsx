@@ -73,11 +73,15 @@ const HelmunusedTool = () => {
       >
         <motion.div className="textContainer" variants={variants}>
           <motion.h1 variants={variants}><motion.b whileHover={{color:"orange"}} style={{ marginBottom: '20px' }}>Helm Chart Unused Values Finder</motion.b></motion.h1>
+
           <motion.p variants={variants} style={{ marginBottom: '10px' }}>
             This Python script helps identify unused values in Helm chart templates. By placing it in the root directory of your Helm chart and running it with Python 3, you can efficiently manage your chart's configuration.
           </motion.p>
           <motion.p variants={variants} style={{ marginBottom: '10px' }}>
             The script compares the keys defined in your Helm values file (typically named <code>values.example.yaml</code>) with those referenced in your chart's templates. It then prints out any keys that are defined but not utilized in the templates, facilitating cleanup and optimization.
+          </motion.p>
+          <motion.p align="center" variants={variants}>
+            <img src="https://github.com/Vitrua/images/blob/main/others/boathelm.jpeg?raw=true" alt="boathelm" width="300" style={{ marginTop: '10px' }}/>
           </motion.p>
         </motion.div>
     

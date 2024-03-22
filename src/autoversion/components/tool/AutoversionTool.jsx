@@ -78,6 +78,9 @@ const AutoversionTool = () => {
           <motion.p variants={variants} style={{ marginBottom: '10px' }}>
             By utilizing this snippet, developers can easily initiate a project that automatically updates its version based on the semantic versioning (SemVer) rules.
           </motion.p>
+          <motion.p align="center" variants={variants}>
+            <img src="https://github.com/Vitrua/images/blob/main/others/openmouthmonster.jpg?raw=true" alt="widemouth" width="300" style={{ marginTop: '10px' }}/>
+          </motion.p>
           <motion.p variants={variants} style={{ marginBottom: '10px' }}>
             <strong>Note:</strong> Before adding this snippet, ensure that your repository contains an <code>autoVersion.json</code> file in the root path.
           </motion.p>
