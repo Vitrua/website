@@ -1,3 +1,12 @@
+## [0.2.5](https://github.com/Vitrua/website/compare/v0.2.4...v0.2.5) (2024-03-22)
+
+
+### Bug Fixes
+
+* buttons behind ([c577bd4](https://github.com/Vitrua/website/commit/c577bd43a87cf249a2d52d8004af60d3a55d44de))
+
+
+
 ## [0.2.4](https://github.com/Vitrua/website/compare/v0.2.3...v0.2.4) (2024-03-22)
 
 
