@@ -38,7 +38,7 @@ const Single = ({ item }) => {
           <motion.div className="textContainer" style={{y}}>
             <h2>{item.title}</h2>
             <p>{item.desc}</p>
-            <a href={item.url} target="_blank" rel="noopener noreferrer"><button>Let's go</button></a>
+            <a href={item.url} rel="noopener noreferrer"><button>Let's go</button></a>
           </motion.div>
         </div>
       </div>

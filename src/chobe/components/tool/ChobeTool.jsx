@@ -127,11 +127,11 @@ const ChobeTool = () => {
             <h2 style={{ marginTop: '20px' }}>Thanks</h2>
             <h4 style={{ marginTop: '10px' }}>Your support helps us continue to enhance Chobe and provide a better Italian media experience for Kodi users.</h4>
             <p>Thank you for choosing Chobe! <span role="img" aria-label="Italian Flag">🇮🇹📺</span></p>
-            <a href="https://patreon.com/Vitrua">
-              <motion.div className="imageContainer" variants={variants}>
-                <img src="https://i.imgur.com/vRwnAWR.png" alt="Vitrua Logo" width="75" align="left" />
-              </motion.div>
-            </a>
+            <motion.p variants={variants} style={{ marginBottom: '10px', display: 'flex', justifyContent: 'center' }}>
+              <a href="https://patreon.com/Vitrua">
+                <img src="/supportmon.png" alt="Support" width="200" style={{ marginTop: '10px' }} />
+              </a>
+            </motion.p>
           </motion.div>
         </motion.div>
       </motion.div>
