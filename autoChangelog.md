@@ -1,3 +1,12 @@
+# [0.3.0](https://github.com/Vitrua/website/compare/v0.2.5...v0.3.0) (2024-03-23)
+
+
+### Features
+
+* add sitemap ([1adba14](https://github.com/Vitrua/website/commit/1adba140af4e274ac32a014846ff487057ce2e25))
+
+
+
 ## [0.2.5](https://github.com/Vitrua/website/compare/v0.2.4...v0.2.5) (2024-03-22)
 
 
