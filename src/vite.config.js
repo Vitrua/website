@@ -13,6 +13,7 @@ export default defineConfig({
         chobe: 'chobe/index.html',
         autoversion: 'autoversion/index.html',
         helmunused: 'helmunused/index.html',
+        sitemap: 'sitemap.xml'
       },
     },
   },
