@@ -1,3 +1,12 @@
+## [0.3.1](https://github.com/Vitrua/website/compare/v0.3.0...v0.3.1) (2024-03-23)
+
+
+### Bug Fixes
+
+* move sitemap to docs ([1595d0a](https://github.com/Vitrua/website/commit/1595d0ab08e93459062a85de61a8a32ec9723b65))
+
+
+
 # [0.3.0](https://github.com/Vitrua/website/compare/v0.2.5...v0.3.0) (2024-03-23)
 
 
