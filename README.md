@@ -48,7 +48,7 @@ Add '/purple-website' to the 2 paths in the index (add to images to if you remov
   npm run build
   ```
 - Copy all the generated files in /src/dist.
-- In /docs delete everything except `CNAME` and `formydearbots.xml`.
+- In /docs delete everything except `CNAME` and `sitemap.xml`.
 - Paste the copied files.
 - Commit and push to main.
 - Verify if the page generating pipe is working.
