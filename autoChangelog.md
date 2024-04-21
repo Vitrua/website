@@ -1,3 +1,17 @@
+## [0.3.4](https://github.com/Vitrua/website/compare/v0.3.3...v0.3.4) (2024-04-21)
+
+
+### Bug Fixes
+
+* remove sitemap route ([8e32c21](https://github.com/Vitrua/website/commit/8e32c21bddbcf890bfe232248e6e49d9dc80ddb7))
+
+
+### Reverts
+
+* Revert "fix: sitemap auto-import" ([acc2571](https://github.com/Vitrua/website/commit/acc2571c62dcf2d8d0fa56843550970304399148))
+
+
+
 ## [0.3.3](https://github.com/Vitrua/website/compare/v0.3.2...v0.3.3) (2024-04-21)
 
 
