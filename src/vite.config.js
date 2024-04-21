@@ -12,8 +12,7 @@ export default defineConfig({
         main: 'index.html',
         chobe: 'chobe/index.html',
         autoversion: 'autoversion/index.html',
-        helmunused: 'helmunused/index.html',
-        sitemap: 'sitemap.xml'
+        helmunused: 'helmunused/index.html'
       },
     },
   },
