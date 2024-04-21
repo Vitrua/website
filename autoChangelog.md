@@ -1,3 +1,13 @@
+## [0.3.2](https://github.com/Vitrua/website/compare/v0.3.1...v0.3.2) (2024-04-21)
+
+
+### Bug Fixes
+
+* sitemap and Guides ([42e1bb7](https://github.com/Vitrua/website/commit/42e1bb792ec63acf99e6ed20bcb64a818854f49b))
+* sitemap name ([61e3fb7](https://github.com/Vitrua/website/commit/61e3fb786c9becc92cfe96aad90b991db69fd6e2))
+
+
+
 ## [0.3.1](https://github.com/Vitrua/website/compare/v0.3.0...v0.3.1) (2024-03-23)
 
 
