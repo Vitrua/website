@@ -1,3 +1,12 @@
+## [0.3.3](https://github.com/Vitrua/website/compare/v0.3.2...v0.3.3) (2024-04-21)
+
+
+### Bug Fixes
+
+* sitemap auto-import ([c883602](https://github.com/Vitrua/website/commit/c88360216288e77ddd30c2b2e1c2b6a24f2378f0))
+
+
+
 ## [0.3.2](https://github.com/Vitrua/website/compare/v0.3.1...v0.3.2) (2024-04-21)
 
 
