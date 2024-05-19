@@ -12,7 +12,7 @@ const items = [
   },
   {
     id: 2,
-    title: "Kubernetes dungeon",
+    title: "Kubernetes Dungeon",
     img: "https://i.imgur.com/7dfLRHR.jpg",
     desc: "Embark on a heroic quest into the Kubernetes Dungeon! Conquer beginner challenges with basic commands, mastering the art of deploying, scaling, and discovering enchanting components.",
     url: "https://docs.vitrua.top/Kubernetes%20Dungeon/01_Pods/"
@@ -23,6 +23,20 @@ const items = [
     img: "https://github.com/Vitrua/images/blob/main/linux/penguinspace.jpg?raw=true",
     desc: "Journey into the depths of the Operative Systems, where celestial travelers navigate the Linux, Windows, Mac and all the other multiverses amidst the glittering stars of command lines and cosmic operations.",
     url: "https://docs.vitrua.top/OSpace/01_Basic_Linux/"
+  },
+  {
+    id: 4,
+    title: "Openshift Castle",
+    img: "https://github.com/Vitrua/images/blob/main/openshift/explorepod.jpg?raw=true",
+    desc: "Step into the grandeur of Openshift Castle, where each tutorial is a fortified tower of knowledge. Learn to defend your deployments and scale your fortifications, mastering the realm of cloud-native applications with guided quests.",
+    url: "https://docs.vitrua.top/OpenShift%20Castle/01_authentication_new_project_basics/"
+  },
+  {
+    id: 5,
+    title: "WorkFlows",
+    img: "https://github.com/Vitrua/images/blob/main/workflows/butlerwhale.jpg?raw=true",
+    desc: "Dive into WorkFlows, an underwater odyssey where each task is a marine adventure. Explore the deep sea, uncovering treasures of efficiency and automation.",
+    url: "https://docs.vitrua.top/WorkFlows/01_local_jenkins_openid/"
   }
 ];
 
