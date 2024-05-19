@@ -61,7 +61,7 @@ const Contact = () => {
         </motion.div>
         <motion.div className="item" variants={variants}>
           <h2>Mail</h2>
-          <span>vitruastudio@gmail.com</span>
+          <span>quack@vitrua.top</span>
         </motion.div>
         <motion.div className="item" variants={variants}>
           <h2>Our experts currently available for you to hire:</h2>
