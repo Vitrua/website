@@ -1,3 +1,12 @@
+# [0.4.0](https://github.com/Vitrua/website/compare/v0.3.4...v0.4.0) (2024-05-19)
+
+
+### Features
+
+* update portfolio with openshift and workflows. ([b5566e2](https://github.com/Vitrua/website/commit/b5566e205fa5e4f9237af8f0207c5a1e43904996))
+
+
+
 ## [0.3.4](https://github.com/Vitrua/website/compare/v0.3.3...v0.3.4) (2024-04-21)
 
 
