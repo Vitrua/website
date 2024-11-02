@@ -1,3 +1,12 @@
+## [0.4.1](https://github.com/Vitrua/website/compare/v0.4.0...v0.4.1) (2024-11-02)
+
+
+### Bug Fixes
+
+* ospace link ([5201ae6](https://github.com/Vitrua/website/commit/5201ae6dac0392c2492d8ef80aadf939b7768d5b))
+
+
+
 # [0.4.0](https://github.com/Vitrua/website/compare/v0.3.4...v0.4.0) (2024-05-19)
 
 
