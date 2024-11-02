@@ -20,7 +20,7 @@ const items = [
   {
     id: 3,
     title: "Operative Systems Space",
-    img: "https://github.com/Vitrua/images/blob/main/linux/penguinspace.jpg?raw=true",
+    img: "https://github.com/Vitrua/images/blob/main/ospace/penguinspace.jpg?raw=true",
     desc: "Journey into the depths of the Operative Systems, where celestial travelers navigate the Linux, Windows, Mac and all the other multiverses amidst the glittering stars of command lines and cosmic operations.",
     url: "https://docs.vitrua.top/OSpace/01_Basic_Linux/"
   },
